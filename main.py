@@ -397,7 +397,7 @@ def show_login_page():
                 st.rerun()
         
         st.markdown("---")
-        st.info("📚 Demo Credentials:\n\n**Username:** demo\n\n**Password:** Demo1234")
+        
 
 
 def show_signup_page():
