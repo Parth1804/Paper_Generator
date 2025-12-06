@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-huggingface
+langchain_google_genai
+transformers
+huggingface-hub
+python-dotenv
+numpy
+scikit-learn
+pydantic
+streamlit
+reportlab
+bcrypt
+cryptography
